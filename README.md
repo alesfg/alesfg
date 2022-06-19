@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alesfg" alt="alesfg" /></a> </p>
 
 - 🔭 I’m currently working on [TekWaveNews](https://tekwavenews.com/)
 
@@ -17,12 +16,13 @@
 
 - 💬 Ask me about **react, react native and graphql**
 
-- 📫 How to reach me **alexbeardev@gmail.com**
+
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexfloresgonzalez/](https://www.linkedin.com/in/alexfloresgonzalez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 How to reach me **alexbeardev@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
