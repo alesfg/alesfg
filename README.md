@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
 
-- 🔭 I’m currently working on [TekWaveNews](https://tekwavenews.com/)
+- 🔭 I’m currently working on [Movetia](https://movetia.com/)
 
-- 👯 I’m looking a great company to **work on remote**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alesfg](https://github.com/alesfg)
+- 👯👨‍💻 All of my projects are available at [https://github.com/alesfg](https://github.com/alesfg)
 
 - 📝 I regularly write articles on [https://tekwavenews.com/](https://tekwavenews.com/)
 
