@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
+<h2 align="center">Download and listen [VoiceDex](https://play.google.com/store/apps/details?id=com.alexfg.voicedex)</h2>
 
-- 🔭 I’m currently working on my Pokedex App: [VoiceDex](https://play.google.com/store/apps/details?id=com.alexfg.voicedex)
+- 🔭 I’m currently open to work
 
 - 👯👨‍💻 All of my projects are available at [https://github.com/alesfg](https://github.com/alesfg)
 
