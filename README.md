@@ -5,7 +5,7 @@
 
 <h2 align="left">Download and listen VoiceDex: </h2>
 
-[VoiceDex](https://play.google.com/store/apps/details?id=com.alexfg.voicedex)
+[VoiceDex](https://play.google.com/store/apps/details?id=com.alexfg.voicedex), available on Play Store, hope you like it!
 
 - 🔭 I’m currently open to work
 
