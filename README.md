@@ -11,8 +11,6 @@
 
 - 👯👨‍💻 All of my projects are available at [https://github.com/alesfg](https://github.com/alesfg)
 
-- 📝 I regularly write articles on [https://tekwavenews.com/](https://tekwavenews.com/)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexfloresgonzalez/](https://www.linkedin.com/in/alexfloresgonzalez/)
 
 - 📫 How to reach me **alexbeardev@gmail.com**
