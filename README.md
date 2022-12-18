@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
-<h2 align="left">Download and listen a Pokemon app!: </h2>
+<h2 align="left">Download and listen my Pokemon app!: </h2>
 
 [PocketDex](https://play.google.com/store/apps/details?id=com.alexfg.pocketdex), available on Play Store, hope you like it!
 
 - 🔭 I’m currently open to work
-
-- 👯👨‍💻 All of my projects are available at [https://github.com/alesfg](https://github.com/alesfg)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexfloresgonzalez/](https://www.linkedin.com/in/alexfloresgonzalez/)
 
