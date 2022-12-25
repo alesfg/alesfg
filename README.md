@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex Flores</h1>
 <h3 align="center">A passionate mobile and frontend developer from Spain</h3>
 
+[My Portfolio Web](https://alesfg.netlify.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
-<h2 align="left">Download and listen my Pokemon app!: </h2>
+<h4 align="left">Download and listen my Pokemon app!: </h4>
 
 [PocketDex](https://play.google.com/store/apps/details?id=com.alexfg.pocketdex), available on Play Store, hope you like it!
+
 
 - 🔭 I’m currently open to work
 
