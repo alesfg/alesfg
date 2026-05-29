@@ -1,24 +1,39 @@
-<h1 align="center">Hi 👋, I'm Alex Flores</h1>
-<h3 align="center">A passionate mobile and frontend developer from Spain</h3>
+# Alejandro Flores
 
-[My Portfolio Web](https://alesfg.netlify.app/)
+Mobile Developer building and shipping React Native apps from Spain, targeting global markets.
+
+Currently at **Experis** (banking sector) by day — building and launching my own apps the rest of the time under [Flores Studios](https://floresstudio.app).
+
+## What I ship
+
+| App | Description | Status |
+|-----|-------------|--------|
+| [QuickSpend](https://floresstudio.app) | Expense tracker — freemium, React Native + Supabase + RevenueCat | Live on App Store |
+| Wears | Fashion wardrobe app | In development |
+
+## Stack
+
+**Mobile:** React Native · Expo · iOS (Swift) · Android (Kotlin)
+**Backend:** Supabase (PostgreSQL + Auth + Edge Functions)
+**Web:** React · Next.js
+**Monetization:** RevenueCat · In-app purchases
+**Analytics:** PostHog
+**State:** Zustand · AsyncStorage
+**DevOps:** EAS Build · EAS Submit · App Store Connect
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesfg&label=Profile%20views&color=0e75b6&style=flat" alt="alesfg" /> </p>
 
-<h4 align="left">Download and listen my Pokemon app!: </h4>
 
-[PocketDex](https://play.google.com/store/apps/details?id=com.alexfg.pocketdex), available on Play Store, hope you like it!
+## Background
 
+- 5+ years across mobile, frontend, and fullstack
+- Shipped apps to the App Store independently
+- Worked on banking apps (React Native + Swift) and enterprise tools
+- Freelanced for international clients via Fiverr
 
-- 🔭 I’m currently open to work
+## Open to
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexfloresgonzalez/](https://www.linkedin.com/in/alexfloresgonzalez/)
+Remote contracts or full-time with US startups — mobile-first products, early-stage teams, fintech, productivity, consumer apps.
 
-- 📫 How to reach me **alexbeardev@gmail.com**
+---
 
-
-<h3 align="left">My Favourite Stack:</h3>
-<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
-<h3 align="left">Other Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
+[Portfolio](https://floresstudio.app) · [LinkedIn](https://linkedin.com/in/alexfloresgonzalez) · alexbeardev@gmail.com
