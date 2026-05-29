@@ -8,7 +8,7 @@ Currently at **Experis** (banking sector) by day — building and launching my o
 
 | App | Description | Status |
 |-----|-------------|--------|
-| [QuickSpend](https://floresstudio.app) | Expense tracker — freemium, React Native + Supabase + RevenueCat | Live on App Store |
+| [QuickSpend](https://apps.apple.com/us/app/quickspend-expense-tracker/id6770118915) | Expense tracker — freemium, React Native + Supabase + RevenueCat | Live on App Store |
 | Wears | Fashion wardrobe app | In development |
 
 ## Stack
